@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+product_matcher_runs/
+pipeline_run/
+raw/
+*.log
